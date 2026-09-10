@@ -44,20 +44,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Tata Elxsi Teliport Season 3 2026** — Shortlisted for Round 2
-- 🔥 **Bharat Dreamin' 2026** — Torchbearer
-- 🚀 **Agentforce World Tour Mumbai Hackathon 2026** — Built Market Monitoring Agent
-- 🏅 **Trailhead Triple Star Ranger** — 390+ Badges | 160K+ Points | 22 Trails
-- 🌟 **Trailhead Agentblazer**
-  - 🏆 Champion — L1
-  - 🚀 Innovator — L2
-  - 👑 Legend — L3
-- 🏎️ **SAEINDIA Student Convention 2024** — Business Plan Presentation
-- 💡 **ENCODE 2025** — GeeksforGeeks Hackathon
-
----
 
 ## 💻 Coding Profiles
 
