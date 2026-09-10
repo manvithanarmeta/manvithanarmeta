@@ -45,14 +45,6 @@
 ---
 
 
-## 💻 Coding Profiles
-
-- 🟠 **CodeChef:** [manvitha16](https://www.codechef.com/users/manvitha16)
-- 🟡 **LeetCode:** [manvitha16](https://leetcode.com/u/manvitha16/)
-- 🟣 **GitHub:** [manvithanarmeta](https://github.com/manvithanarmeta)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
