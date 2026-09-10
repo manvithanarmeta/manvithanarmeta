@@ -9,7 +9,6 @@
 - 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**
 - 💻 Strong interest in **Software Development, AI/ML, and Salesforce**
 - 🧠 Practicing **Data Structures & Algorithms** and problem solving
-- ☁️ Exploring **Salesforce Agentforce, Data Cloud, and AI-powered applications**
 - 🚀 Interested in building practical solutions that solve real-world problems
 - 🌱 Currently strengthening my skills in **Java, DSA, AI/ML, and Cloud Technologies**
 
