@@ -1,4 +1,4 @@
-# Hi, I'm Manvitha Narmeta 👋
+# 👋 Hi, I'm Manvitha Narmeta
 
 ### Building intelligent solutions at the intersection of AI, software, and Salesforce. 🤖⚡
 
@@ -6,81 +6,128 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science & Engineering student specializing in
-Artificial Intelligence & Machine Learning, passionate about building
-practical solutions to real-world problems.
-
-- 🤖 AI/ML & Computer Vision enthusiast
-- ☕ Currently strengthening Java & DSA
-- ⚡ Salesforce & Agentforce enthusiast
-- 🧠 Interested in Generative AI and intelligent applications
-- 🚀 Always learning, building and improving
+- 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**
+- 💻 Strong interest in **Software Development, AI/ML, and Salesforce**
+- 🧠 Practicing **Data Structures & Algorithms** and problem solving
+- ☁️ Exploring **Salesforce Agentforce, Data Cloud, and AI-powered applications**
+- 🚀 Interested in building practical solutions that solve real-world problems
+- 🌱 Currently strengthening my skills in **Java, DSA, AI/ML, and Cloud Technologies**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java • Python • C • SQL
+### 💻 Programming Languages
 
-**AI/ML:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy
+`Java` • `C` • `SQL`
 
-**Salesforce:** Agentforce • Data Cloud • Apex • LWC • Flows • Salesforce FSC
+### 🤖 AI / Machine Learning
 
-**Computer Vision:** OpenCV • MediaPipe • CNN
+`Python` • `TensorFlow` • `PyTorch` • `Scikit-learn`  
+`Pandas` • `NumPy` • `Computer Vision`
 
-**Core:** DSA • OOP • DBMS
+### 🌐 Web Development
 
-**Tools:** Git • GitHub
+`HTML` • `JavaScript` • `Lightning Web Components`
+
+### ☁️ Salesforce
+
+`Salesforce FSC` • `Agentforce` • `Data Cloud`  
+`Apex` • `Flows` • `Service Cloud`
+
+### 🔧 Tools & Technologies
+
+`Git` • `GitHub` • `OpenCV` • `MediaPipe`
+
+### 🧠 Core Computer Science
+
+`Data Structures & Algorithms` • `OOP` • `DBMS`
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Tata Elxsi Teliport Season 3 — 2026 | Round 2 Shortlisted
-- 🔥 Bharat Dreamin' Torchbearer — 2026
-- 🤖 Agentforce World Tour Mumbai Hackathon — 2026
-- ⭐ Trailhead Triple Star Ranger
-- 🚀 Agentblazer — Champion • Innovator • Legend
-- 🏁 SAEINDIA Student Convention — 2024
-- 💻 ENCODE — 2025
-
----
-
-## 📜 Certifications
-
-- Salesforce Certified Agentforce Specialist
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate
-- IBM SkillsBuild — Artificial Intelligence Fundamentals
-- Cisco Networking Academy — Python Essentials 1 & 2
+- 🥇 **Tata Elxsi Teliport Season 3 2026** — Shortlisted for Round 2
+- 🔥 **Bharat Dreamin' 2026** — Torchbearer
+- 🚀 **Agentforce World Tour Mumbai Hackathon 2026** — Built Market Monitoring Agent
+- 🏅 **Trailhead Triple Star Ranger** — 390+ Badges | 160K+ Points | 22 Trails
+- 🌟 **Agentblazer 360 League**
+  - Champion — L1
+  - Innovator — L2
+  - Legend — L3
+- 🏎️ **SAEINDIA Student Convention 2024** — Business Plan Presentation
+- 💡 **ENCODE 2025** — GeeksforGeeks Hackathon
 
 ---
 
 ## 💻 Coding Profiles
 
-[LeetCode](https://leetcode.com/u/manvitha16/) •
-[CodeChef](https://www.codechef.com/users/manvitha16)
+- 🟠 **CodeChef:** [manvitha16](https://www.codechef.com/users/manvitha16)
+- 🟡 **LeetCode:** [manvitha16](https://leetcode.com/u/manvitha16/)
+- 🟣 **GitHub:** [manvithanarmeta](https://github.com/manvithanarmeta)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manvithanarmeta&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvithanarmeta&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manvithanarmeta&theme=tokyonight"
+    width="100%"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manvithanarmeta&theme=tokyonight"
+    width="48%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manvithanarmeta&theme=tokyonight"
+    width="48%"
+  />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ **Java & Data Structures**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧠 **Generative AI & Agentic AI**
+- ☁️ **Salesforce Agentforce & Data Cloud**
+- 🔐 **Cybersecurity Fundamentals**
+- 🚀 **Problem Solving & Competitive Programming**
+
+---
+
+## 🎯 What I Believe In
+
+> **Learn continuously. Build practically. Solve real problems.**
+
+I enjoy turning ideas into working solutions by combining **software development, AI/ML, and cloud technologies**.
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/manvitha-narmeta-777342292/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/manvithanarmeta">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="mailto:narmetamanvitha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/manvitha-narmeta-777342292/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:narmetamanvitha@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
