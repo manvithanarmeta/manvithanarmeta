@@ -105,7 +105,6 @@
 
 > **Learn continuously. Build practically. Solve real problems.**
 
-I enjoy turning ideas into working solutions by combining **software development, AI/ML, and cloud technologies**.
 
 ---
 
