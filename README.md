@@ -50,10 +50,10 @@
 - 🔥 **Bharat Dreamin' 2026** — Torchbearer
 - 🚀 **Agentforce World Tour Mumbai Hackathon 2026** — Built Market Monitoring Agent
 - 🏅 **Trailhead Triple Star Ranger** — 390+ Badges | 160K+ Points | 22 Trails
-- 🌟 **Agentblazer 360 League**
-  - Champion — L1
-  - Innovator — L2
-  - Legend — L3
+- 🌟 **Trailhead Agentblazer**
+  - 🏆 Champion — L1
+  - 🚀 Innovator — L2
+  - 👑 Legend — L3
 - 🏎️ **SAEINDIA Student Convention 2024** — Business Plan Presentation
 - 💡 **ENCODE 2025** — GeeksforGeeks Hackathon
 
@@ -96,7 +96,6 @@
 - 🤖 **Artificial Intelligence & Machine Learning**
 - 🧠 **Generative AI & Agentic AI**
 - ☁️ **Salesforce Agentforce & Data Cloud**
-- 🔐 **Cybersecurity Fundamentals**
 - 🚀 **Problem Solving & Competitive Programming**
 
 ---
@@ -104,7 +103,6 @@
 ## 🎯 What I Believe In
 
 > **Learn continuously. Build practically. Solve real problems.**
-
 
 ---
 
@@ -114,13 +112,13 @@
   <a href="https://www.linkedin.com/in/manvitha-narmeta-777342292/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
+
   <a href="https://github.com/manvithanarmeta">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  
+
   <a href="mailto:narmetamanvitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
